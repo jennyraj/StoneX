@@ -1,0 +1,278 @@
+export const tlsa =
+    [
+        {
+            "title": "Tesla stock surges 8% as it reclaims key technical price level for first time since February (TSLA)",
+            "source": "Business Insider",
+            "description": "Summary List Placement Tesla surged as much as 8% on Tuesday as the stock reclaimed a key technical price level. Shares of Tesla soared above its 50-day moving average for the first time since mid-February. Improving momentum indicators, coupled with fresh record highs in the Nasdaq 100, suggest more gains ahead for Tesla. Watch Tesla trade live here. Tesla traders are likely breathing a sigh of relief on Tuesday after the stock surged as much as 8% and reclaimed a key technical price level that has represented overhead resistance since mid-February. Shares of Tesla opened up just above its 50-day moving average in Tuesday''s trading session, and decisively moved higher throughout the afternoon as buying pressure overpowered sellers. Moving averages are a lagging trend-following indicator that technical analysts use to smooth out price movements and help identify the direction of the current trend in place. Traders view the the 50-day moving average, which is the average daily closing price of a stock over its previous 50 trading sessions, as a short-term moving average that often represents areas of support or resistance for a stock.",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/a4581816-92d4-4994-a624-8469d48d195e",
+            "url": "https://cloud.iexapis.com/v1/news/article/a4581816-92d4-4994-a624-8469d48d195e",
+            "publishTime": "2021-04-13T20:15:47Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Tesla Model 3 Is The Bestselling Car in Austria in March",
+            "source": "Benzinga",
+            "description": "Tesla Inc (NASDAQ: TSLA ) had record deliveries in the first quarter of 2021, supplying 184,800 vehicles to customers. Countries from around the world have contributed to this number, with Tesla outpacing the electric vehicle competition in Norway with the Model 3 as the top-seller. Also of note  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/9875df1f-3283-4426-8bf0-deabd3ed6567",
+            "url": "https://cloud.iexapis.com/v1/news/article/9875df1f-3283-4426-8bf0-deabd3ed6567",
+            "publishTime": "2021-04-13T20:11:41Z",
+            "hasPaywall": false,
+            "related": "TSLA, NIO",
+            "provider": "IEX"
+        },
+        {
+            "title": "Tesla stock ends at best in nearly 8 weeks, jumps more than 8%",
+            "source": "MarketWatch",
+            "description": "Shares of Tesla Inc. undefined rallied 8.6% Tuesday to end at their highest since Feb. 19, when they closed at $781.30. Tuesday''s advance was the largest",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/5d67cf43-53b0-4d95-ba42-e9c2fb4a7a75",
+            "url": "https://cloud.iexapis.com/v1/news/article/5d67cf43-53b0-4d95-ba42-e9c2fb4a7a75",
+            "publishTime": "2021-04-13T20:03:43Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Video: Tesla Model Y Driver Rips Off Front Wheel in Accident, Blames Unintended Acceleration",
+            "source": "Benzinga",
+            "description": "Earlier this year, the NHTSA determined that unintended acceleration complaints about Tesla Inc (NASDAQ: TSLA ) vehicles were not a fault of the vehicle, but driver error. Like many auto manufacturers, Tesla gathers a lot of data about their vehicles, including what pedals are pressed, when and how hard. But that doesn''t stop drivers from claiming they have experienced unintended acceleration in their vehicles. Toyota did pay  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/0b27149c-1eb5-4512-9840-c4d28c94b7a5",
+            "url": "https://cloud.iexapis.com/v1/news/article/0b27149c-1eb5-4512-9840-c4d28c94b7a5",
+            "publishTime": "2021-04-13T16:55:42Z",
+            "hasPaywall": false,
+            "related": "TSLA,GM,F",
+            "provider": "IEX"
+        },
+        {
+            "title": "Here''s Why Tesla, Moderna, Peloton And Zoom Are Moving",
+            "source": "Benzinga",
+            "description": "Tesla Inc (NASDAQ: TSLA ) shares are trading  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/e33f786c-1032-4e4e-bf47-67df1acf2331",
+            "url": "https://cloud.iexapis.com/v1/news/article/e33f786c-1032-4e4e-bf47-67df1acf2331",
+            "publishTime": "2021-04-13T15:02:50Z",
+            "hasPaywall": false,
+            "related": "TSLA , NSANY",
+            "provider": "IEX"
+        },
+        {
+            "title": "The EQS Promises To Turn Things Around For Mercedes Benz In The EV Race",
+            "source": "Benzinga",
+            "description": "The iconic Mercedes-Benz, subsidiary of Daimler AG (OTC: DDAIF ) can brag that it gave the world the first production automobile. It has a history as an innovator and a relentless pursuer of quality and engineering excellence. It has a status as many consumers find owning a Mercedes-Benz is a sign they have made it in life. But the automotive world is changing as EVs are taking over the world, forcing automakers to race to develop battery powered vehicles, including cars that can drive themselves. These new technologies are challenging traditional automakers and even luxury brands like Bayerische Motoren Werke ADR (OTC: BMWYY ) BMW and Volkswagen Group (OTC: VWAGY )-owned Audi. Mercedes-Benz''s is no exception as the three-pointed star has been a bit slower than some to adapt to the electrification challenge. But, the EQS that will be revealed on April 15 th is set to change that. The German luxury brands are also facing challenges in the growing and extremely important Chinese market from Tesla Inc (NASDAQ: TSLA ) as well as Chinese upstarts such as Li Auto Inc. (NASDAQ: LI ).",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/01a27707-7023-4355-a3b5-19e51be9ac6f",
+            "url": "https://cloud.iexapis.com/v1/news/article/01a27707-7023-4355-a3b5-19e51be9ac6f",
+            "publishTime": "2021-04-13T14:33:13Z",
+            "hasPaywall": false,
+            "related": "TSLA, DDAIF",
+            "provider": "IEX"
+        },
+        {
+            "title": "Tesla upgraded to Buy with new price target of $1,071",
+            "source": "ValueWalk",
+            "description": "Tesla Inc (NASDAQ:TSLA) has received an upgrade and price target increase for its exposure to the energy storage business. Canaccord Genuity analyst Jed Dorsheimer upgraded the stock to Buy and raised his price target to $1,071. Q1 2021 hedge fund letters, conferences and more Tesla Upgraded The new price target is based on 62 times [] The post Tesla upgraded to Buy with new price target of $1,071 appeared first on ValueWalk .",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/b17eb9a3-6fc3-4ec7-b11c-586caf906342",
+            "url": "https://cloud.iexapis.com/v1/news/article/b17eb9a3-6fc3-4ec7-b11c-586caf906342",
+            "publishTime": "2021-04-13T14:21:40Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "FTX''s Pre-IPO Coinbase Contract Implies $140B Valuation, Community Weighs In",
+            "source": "Benzinga",
+            "description": "CBSE, a pre-IPO Coinbase contract listed on crypto exchange FTX, traded at $594 at press time, implying a valuation over $140 billion for Coinbase ahead of its direct listing on Nasdaq. What Happened: FTXs Coinbase contract, CBSE, tracks Coinbase''s market cap divided by 250,000,000. At the end of Coinbases first trading day, CBSE balances will convert into the equivalent amount of Coinbase Fractional Stock tokens. Stock tokens have recently emerged as a new investment avenue for market participants to trade fractions of companies shares. FTX itself has listed several stock tokens including Apple Inc (NASDAQ: AAPL ) and Amazon. com In c (NASDAQ: AMZN ), while more recently, leading crypto exchange Binance offered tokenized versions of Tesla Inc (NASDAQ: TSLA ) As of April 13, we estimate that there will be approximately  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/0abaf889-9779-48b4-a1b1-81e9ef8fe45e",
+            "url": "https://cloud.iexapis.com/v1/news/article/0abaf889-9779-48b4-a1b1-81e9ef8fe45e",
+            "publishTime": "2021-04-13T13:06:05Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Tesla, in arrivo programma di assistenza per i Semi",
+            "source": "Investing.com Italy",
+            "description": "https://it.investing.com/news/stock-market-news/tesla-in-arrivo-programma-di-assistenza-per-i-semi-1992790",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/97d22fcc-6ef0-4fe5-87dc-9366cb55d526",
+            "url": "https://cloud.iexapis.com/v1/news/article/97d22fcc-6ef0-4fe5-87dc-9366cb55d526",
+            "publishTime": "2021-04-13T08:35:24Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Tesla Rival Rivian Forges EV Battery Partnership With Samsung SDI",
+            "source": "Benzinga",
+            "description": "Amazon.com Inc (NASDAQ: AMZN )- and Ford Motor Co -backed (NYSE: F )-backed electric vehicle startup Rivian is partnering with South Korean manufacturing company Samsung SDI Co Limited to secure batteries for its upcoming launches, according to TechCrunch . The two companies didn''t disclose details of the deal. What Happened: Samsung SDI already supplies battery cells to other automakers and has a $3.2 billion, 10-year agreement with the BMW Group. Rivian, which plans to launch its first electric vehicles R1T pickup truck and R1S SUV this summer said it had been working with Samsung SDI throughout the vehicle development process. The electric vehicle startup likes to call its upcoming launches \"adventure  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/7b47bb1a-0b31-412b-88d8-14c90e66040d",
+            "url": "https://cloud.iexapis.com/v1/news/article/7b47bb1a-0b31-412b-88d8-14c90e66040d",
+            "publishTime": "2021-04-13T07:23:25Z",
+            "hasPaywall": false,
+            "related": "TSLA, AMZN",
+            "provider": "IEX"
+        },
+        {
+            "title": "Is Buying Tesla Stock In Tokens Rather Than Actual Shares The Better Choice?",
+            "source": "Benzinga",
+            "description": "Which is the better choice  buying regular shares of Tesla Inc (NASDAQ: TSLA ) and other companies or buying the securities in a token format? About Tokenized Shares: Shares of several companies such as the Elon Musk-led automaker Tesla, GameStop Corp (NYSE: GME ), and Amazon.com, Inc (NASDAQ: AMZN ) are now available as tokenized stocks. In short, these refer to the creation and issuance of digital tokens that represent equity shares in a company or entity. Where To Buy These Shares: Tokenized stocks are available through a number of exchanges like Bittrex and FTX. On Monday, Binance also introduced these types of stocks putting up Tesla as the first token listing. Binance is pricing the stocks and carrying out settlements in Binance USD (BUSD) stablecoin. Local regulations may apply, restricting the purchase of share tokens. Binance, for example, does not offer such tokens in Turkey, China, and some other restricted jurisdictions. Why Tokenized Shares: A purported advantage of ",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/3f3490ab-d1c3-4cc2-88cc-abc33bc219dd",
+            "url": "https://cloud.iexapis.com/v1/news/article/3f3490ab-d1c3-4cc2-88cc-abc33bc219dd",
+            "publishTime": "2021-04-13T03:49:43Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Tesla ''Bringing A Machine Gun To A Knife Fight,'' Canaccord Genuity Analyst Says",
+            "source": "Benzinga",
+            "description": "Canaccord Genuity upgraded Tesla Inc (NASDAQ: TSLA ) for three reasons, analyst Jed Dorsheimer said on CNBC''s \"Squawk On The Street\" Monday. The analyst said he expects delivery numbers to lead to greater profitability because of the transition from low-volume, high-price vehicles to high-volume, lower-price vehicles in the form of Tesla''s Model Y and 3. Secondly, \"the 4680 battery will open up capacity that will drive into the solar and storage market,\" he said. Lastly,  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/4778cec3-b43a-4ef2-86dd-106ab7170261",
+            "url": "https://cloud.iexapis.com/v1/news/article/4778cec3-b43a-4ef2-86dd-106ab7170261",
+            "publishTime": "2021-04-12T19:32:32Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Once Again, Elon Musk Said Something That Could Get Him in Trouble",
+            "source": "Entrepreneur",
+            "description": "The Tesla CEO made questionable comments to Wall Street analysts on a Jan. 27 conference call.",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/79836906-4117-4a9f-81bf-bb6ce706c334",
+            "url": "https://cloud.iexapis.com/v1/news/article/79836906-4117-4a9f-81bf-bb6ce706c334",
+            "publishTime": "2021-04-12T18:08:16Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Tesla China Model Y Teardown Reveals Parts Shared with Model 3",
+            "source": "Benzinga",
+            "description": "When Tesla Inc (NASDAQ: TSLA ) planned the Model Y, it was looking to make its next mass-market vehicle with a broad appeal. The company also wanted to share parts with the Model 3, which was already being produced in large numbers with its parts supply secured. By having both cars share parts, the company would be able to speed production and reduce complexity. Tesmanian shared a teardown by Zhihu Automobile to learn more about what makes up a Model Y made in China. Tesla originally said the Model Y would share around 76% of its parts with the Model 3,  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/10f239eb-0d04-4c06-a832-57f1967add67",
+            "url": "https://cloud.iexapis.com/v1/news/article/10f239eb-0d04-4c06-a832-57f1967add67",
+            "publishTime": "2021-04-12T18:00:49Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Nvidia, Volvo Cars accelerate auto industry''s data-processing power race",
+            "source": "Yahoo Finance",
+            "description": "Volvo Cars said Monday it will use a new generation of high-powered chips from Nvidia Corp to enable more autonomous driving functions in future vehicles, starting next year. Volvo is among a crowd of new and established automakers putting digital processing power ahead of horsepower as they try to catch up with Tesla Inc. For Nvidia, the Volvo agreement, a similar deal with electric vehicle startup Faraday Future, and other agreements expected in the coming weeks mark a reboot of growth for the gaming and data center processor company''s automotive business.",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/4fbd6908-3f82-4964-bbac-85cbfaa37c5c",
+            "url": "https://cloud.iexapis.com/v1/news/article/4fbd6908-3f82-4964-bbac-85cbfaa37c5c",
+            "publishTime": "2021-04-12T17:05:14Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Huawei Targets Over $1B On Self-Driving, EV Technologies R&D, Amid Claims Of Beating Tesla: Bloomberg",
+            "source": "Benzinga",
+            "description": "The Chinese telecom company, Huawei Technologies Co , aims to invest over $1 billion on researching autonomous-driving and electric-car technologies, intensifying competition with Tesla Inc (NASDAQ: TSLA ), Xiaomi Corp (OTC: XIACF ) (OTC: XIACY ), NIO Inc (NYSE: NIO ) and XPeng Inc (NYSE: XPEV ), Bloomberg reports . Huaweis autonomous-driving technology has already beaten Teslas in some domains by enabling cars to independently cruise for over 1,000 kilometers (621 miles), as per Rotating Chairman Eric Xu. Huawei will partner with three automakers, primarily to manufacture autonomous cars carrying the Huawei name as a sub-brand. Huawei aimed to  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/afed6ca6-d09c-4813-9b76-beebb4a04dd9",
+            "url": "https://cloud.iexapis.com/v1/news/article/afed6ca6-d09c-4813-9b76-beebb4a04dd9",
+            "publishTime": "2021-04-12T16:15:17Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Why Crypto Exchange Binance Launches Tesla Stock Tokens",
+            "source": "Benzinga",
+            "description": "Binance, the largest crypto exchange by volume, announced today that it is launching zero-commission tradeable Tesla Inc (NASDAQ: TSLA ) stock tokens. What Happened: Tesla stock tokens on Binance will have a minimum trade size of one-hundredth of a stock token, representing the same fraction of a Tesla share. The tokens will be priced and settled in Binance USD (BUSD), a stablecoin pegged to the value of the U.S dollar issued by Paxos Trust Co. Each whole token will represent one share of Tesla equity stock, which is fully backed by  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/0314c001-c972-48f0-881d-0e53294a6c64",
+            "url": "https://cloud.iexapis.com/v1/news/article/0314c001-c972-48f0-881d-0e53294a6c64",
+            "publishTime": "2021-04-12T15:31:31Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Why This Tesla Analyst Is Turning Bullish",
+            "source": "Benzinga",
+            "description": "Although Tesla Incs (NASDAQ: TSLA ) stock valuation is rich, the company seems to have crossed the electric vehicle chasm and is now aggressively foraying into storage, according to Canaccord Genuity. The Tesla Analyst: Jed Dorsheimer upgraded the rating for Tesla''s stock from Hold to Buy, while raising the price target from $419 to $1,071. The Tesla Thesis: Dorsheimer said the company could achieve accelerated growth in the energy generation and storage business, with revenue surging to an estimated $8 billion in 2025 with gross margins equal to or  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/c7fab121-00df-435f-be20-22980b5ee0c8",
+            "url": "https://cloud.iexapis.com/v1/news/article/c7fab121-00df-435f-be20-22980b5ee0c8",
+            "publishTime": "2021-04-12T15:26:56Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Tesla Jumps After Analyst Says It Holds Several-Year Lead in EV, Raises Price Targ",
+            "source": "Investing.com",
+            "description": "https://www.investing.com/news/stock-market-news/tesla-jumps-after-analyst-says-it-holds-severalyear-lead-in-ev-raises-price-targ-2471951",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/f608e2e9-504a-41f7-bc56-fe0d91cb0511",
+            "url": "https://cloud.iexapis.com/v1/news/article/f608e2e9-504a-41f7-bc56-fe0d91cb0511",
+            "publishTime": "2021-04-12T14:43:41Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "WeWork promises it will be profitable by the end of 2021. But with so much uncertainty over returning to the office, experts think the projection \"feels a bit aggressive.\"",
+            "source": "Business Insider",
+            "description": "Summary List Placement WeWork''s SPAC deal, sponsored by Bow Capital Management with Shaquille O''Neil as an advisor, is the company''s second attempt at going public after its big-spending ways, massive valuation, and eccentric CEO and co-founder helped to tank its 2019 IPO before it launched . This time around, the company is helmed by real estate veteran Sandeep Mathrani , and has majorly slimmed down operating expenses. As a result, it''s touting to investors that by the fourth quarter of this year, the company will be EBITDA profitable, a financial indicator of a company''s earnings before interest, taxes, depreciation, and amortization. Of course, EBITDA-profitability is not the same as total profitability, especially for a company that has over $4 billion in total debt. The company paid $532 million in interest and other income expenses in 2020, expenses that are removed from an EBITDA calculation. The company did not include any non-adjusted figures that would show profitability with expenses like depreciation and interest included.",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/9f3f11c9-23fc-4d45-a627-50297c34f10d",
+            "url": "https://cloud.iexapis.com/v1/news/article/9f3f11c9-23fc-4d45-a627-50297c34f10d",
+            "publishTime": "2021-04-12T13:53:45Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Small investors are taking an unexpected break. Here''s why",
+            "source": "CNN",
+            "description": "After a raucous start to the year, Wall Street expected non-professional traders to pump chunks of their $1,400 stimulus checks into the stock market, supporting popular names like Tesla and Apple. So far, that doesn''t appear to be happening.",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/bae3cb2e-6ed5-41ac-81e1-764328f0e324",
+            "url": "https://cloud.iexapis.com/v1/news/article/bae3cb2e-6ed5-41ac-81e1-764328f0e324",
+            "publishTime": "2021-04-12T12:14:42Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Tesla, Alibaba and Uber Rise Premarket",
+            "source": "Investing.com",
+            "description": "https://www.investing.com/news/stock-market-news/tesla-alibaba-and-uber-rise-premarket-2471708",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/c3aef3a8-72b7-40dc-9c6f-0937e5e60eaf",
+            "url": "https://cloud.iexapis.com/v1/news/article/c3aef3a8-72b7-40dc-9c6f-0937e5e60eaf",
+            "publishTime": "2021-04-12T12:02:38Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Here''s Why Alibaba, Plug Power And Tesla Are Moving",
+            "source": "Benzinga",
+            "description": "One of the most common questions traders have about stocks is Why Is  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/939febb8-b29c-4e2f-b012-db897c48e76a",
+            "url": "https://cloud.iexapis.com/v1/news/article/939febb8-b29c-4e2f-b012-db897c48e76a",
+            "publishTime": "2021-04-12T12:01:57Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "Docusign, LendingTree, And Velo3D''s Rumored SPAC  What Cathie Wood''s Ark Bought And Sold On Friday",
+            "source": "Benzinga",
+            "description": "Cathie Wood-led Ark Investment Management on Friday bought in more shares of the blank-check company Jaws Spitfire Acquisition Corp (NYSE: SPFR ), its third such purchase for its newest fund Ark Space Exploration & Innovation (NYSE: ARKX ). The Barry Sternlicht- and Serena Williams-backed Jaws Spitfire is reported to be in talks to take SpaceX''s 3D printer supplier Velo3D public in a SPAC deal, which could value the company $1 billion. SpaceX is led by Elon Musk, who also serves as the CEO of Tesla Inc. (NASDAQ: TSLA ). On Friday, Wood bought 102,800 shares for ARKX of the 3D company, which has the capability to manufacture previously impossible geometrics, and contributes over 0.80% of the ETFs overall weight. The hedge fund also bought 230,439 shares of the blank-check company for its Autonomous Technology & Robotics ETF (BATS: ARKQ ). Shares of the blank-check firm closed 0.28% higher at $10.70 on Friday. Heres a list of the other 11 stocks that the hedge fund bought and sold on Friday: Trades For Ark Genomic Revolution ETF (BATS: ARKG ) Berkeley Lights Inc (NYSE: BFLY ): Bought 41,000 shares of the company, representing about 0.0203% of the ETF.",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/622fed81-161d-4447-8284-dd19e04b5ec0",
+            "url": "https://cloud.iexapis.com/v1/news/article/622fed81-161d-4447-8284-dd19e04b5ec0",
+            "publishTime": "2021-04-12T03:04:47Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        },
+        {
+            "title": "How Elon Musk Responded To Competitor Nio''s 100,000th Vehicle Milestone",
+            "source": "Benzinga",
+            "description": "NIO Inc. (NYSE: NIO ) achieved a key production milestone last week, and the feat has elicited appreciation from an unexpected quarter. What Happened: EV pioneer Tesla, Inc.''s (NASDAQ: TSLA ) CEO Elon Musk has acknowledged Nio''s landmark production milestone of rolling out its 100,000th vehicle off its production line. In a tweet, Musk congratulated Nio and also went on to say it was indeed a tough milestone. Congrats to NIO. That is a tough milestone.  Elon Musk (@elonmusk) April 9, 2021 Musk''s words should come as  Full story available on Benzinga.com",
+            "imageUrl": "https://cloud.iexapis.com/v1/news/image/1e280fcc-7696-418c-a7f7-e9a241c84850",
+            "url": "https://cloud.iexapis.com/v1/news/article/1e280fcc-7696-418c-a7f7-e9a241c84850",
+            "publishTime": "2021-04-10T12:29:10Z",
+            "hasPaywall": false,
+            "related": "TSLA",
+            "provider": "IEX"
+        }
+    ]
